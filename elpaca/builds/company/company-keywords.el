@@ -1,0 +1,1 @@
+/home/itstoxicqt/.config/emacs/elpaca/repos/company-mode/company-keywords.el

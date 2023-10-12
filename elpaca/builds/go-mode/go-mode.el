@@ -1,0 +1,1 @@
+/home/itstoxicqt/.config/emacs/elpaca/repos/go-mode/go-mode.el

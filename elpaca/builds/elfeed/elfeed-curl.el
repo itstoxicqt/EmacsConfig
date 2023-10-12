@@ -1,0 +1,1 @@
+/home/itstoxicqt/.config/emacs/elpaca/repos/elfeed/elfeed-curl.el

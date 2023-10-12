@@ -1,0 +1,1 @@
+/home/itstoxicqt/.config/emacs/elpaca/repos/themes/doom-themes-base.el

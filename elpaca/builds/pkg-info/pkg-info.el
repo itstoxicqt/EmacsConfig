@@ -1,0 +1,1 @@
+/home/itstoxicqt/.config/emacs/elpaca/repos/pkg-info/pkg-info.el

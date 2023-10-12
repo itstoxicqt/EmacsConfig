@@ -1,0 +1,4 @@
+/home/itstoxicqt/.config/emacs/elpaca/builds/vterm/build/CMakeFiles/vterm-module.dir
+/home/itstoxicqt/.config/emacs/elpaca/builds/vterm/build/CMakeFiles/run.dir
+/home/itstoxicqt/.config/emacs/elpaca/builds/vterm/build/CMakeFiles/edit_cache.dir
+/home/itstoxicqt/.config/emacs/elpaca/builds/vterm/build/CMakeFiles/rebuild_cache.dir
